@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **steve@steve.ee**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

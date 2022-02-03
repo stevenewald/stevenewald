@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Radix tree pathfinding](https://github.com/stevenewald/radix-pathfinding)
 
-- 👯 I’m looking to collaborate on [transformer neural network optimization](https://github.com/stevenewald/mesh-transformer-jax)
+- 🤝 I’m looking to collaborate on [transformer neural network optimization](https://github.com/stevenewald/mesh-transformer-jax)
 
 - 👨‍💻 All of my projects are available at [https://steve.ee/](https://steve.ee/)
 

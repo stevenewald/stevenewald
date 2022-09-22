@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
-<h3 align="center">A passionate software engineer from Boston</h3>
+<h3 align="center">An incoming Amazon SDE Intern from Boston</h3>
 
 - 🔭 I’m currently working on [Radix tree pathfinding](https://github.com/stevenewald/radix-pathfinding)
 

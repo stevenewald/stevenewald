@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to collaborate on [transformer neural network optimization](https://github.com/stevenewald/mesh-transformer-jax)
 
-- 👨‍💻 All of my projects are available at [https://steve.ee/](https://steve.ee/)
+- 👨‍💻 My portfolio website is [https://steve.ee/](https://steve.ee/)
 
 - 📫 How to reach me **steve@steve.ee**
 

@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
 <h3 align="center">An incoming Amazon SDE Intern from Boston</h3>
 
-- 🔭 I’m currently working on [Radix tree pathfinding](https://github.com/stevenewald/radix-pathfinding)
-
-- 🤝 I’m looking to collaborate on [transformer neural network optimization](https://github.com/stevenewald/mesh-transformer-jax)
-
 - 👨‍💻 My portfolio website is [https://steve.ee/](https://steve.ee/)
 
-- 📫 How to reach me **steve@steve.ee**
+- 📫 Reach me at **steve@steve.ee**
 
 <p align="left">
 </p>

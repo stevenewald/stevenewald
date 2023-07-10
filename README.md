@@ -62,4 +62,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenewald&show_icons=true&locale=en&layout=compact" alt="stevenewald" /></p>
 <p><img align="center" style="display:none" width=0 height=0 src="https://leetcard.jacoblin.cool/stevenewald?ext=heatmap?cache=0"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenewald&" alt="stevenewald" /></p>

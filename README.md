@@ -1,4 +1,4 @@
-`if constexpr` enthusiast. Refactor demon. Java apologist and recovering webdev.
+`if constexpr` enthusiast. refactor demon. java apologist and recovering webdev.
 
 check out my pinned repos + a few websites below
 

@@ -1,3 +1,5 @@
+grinding other stuff rn will stop slacking on commits
+
 `if constexpr` enthusiast. refactor demon. java apologist and recovering webdev.
 
 check out my pinned repos + a few websites below

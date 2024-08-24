@@ -1,5 +1,3 @@
-**grinding other stuff july 15-aug 17, ignore missing commit history**
-
 `if constexpr` enthusiast. refactor demon. java apologist and recovering webdev.
 
 check out my pinned repos + a few websites below

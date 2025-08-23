@@ -2,4 +2,4 @@
 
 check out my pinned repos + my [portfolio](https://www.stevenewald.com)
 
-what i'm currently working on: [minimal perfect hashing](https://github.com/stevenewald/perfect-hashing/tree/main)
+what i'm currently working on: reading about market microstructure

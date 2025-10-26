@@ -2,4 +2,4 @@
 
 check out my pinned repos + my [portfolio](https://www.stevenewald.com)
 
-what i'm currently working on: reading about market microstructure
+what i'm currently working on: ramping up at work
